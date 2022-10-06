@@ -7,5 +7,6 @@ public class Main {
         TestA.sayHelloLt();
         System.out.println("Hello world!!!");
         TestB.sayHelloLt();
+        System.out.println("Hello world!!!");
     }
 }
